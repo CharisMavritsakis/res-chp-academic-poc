@@ -218,3 +218,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ==========================================
+# Custom Project Files
+# ==========================================
+
+# Dynamic Files
+res_chp_applications.db
+PoC_faiss_index/
+chat_history.json
+
+# Password
+api_key.txt
